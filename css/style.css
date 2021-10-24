@@ -36,24 +36,17 @@ body {
 
 .hero-content {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: space-around;
 }
 .hero-subtitle {
   display: inline-block;
   color: #ffbb01;
   font-size: 40px;
-  line-height: 28px;
+  line-height: 36px;
   margin-top: 20px;
   margin-bottom: 14px;
 }
-.hero-title {
-  font-weight: bold;
-  font-size: 30px;
-  line-height: 46px;
-  margin-top: 10px;
-  margin-bottom: 14px;
-}
+
 .hero-description {
   font-size: 40px;
   line-height: 38px;

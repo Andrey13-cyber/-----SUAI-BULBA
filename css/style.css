@@ -135,6 +135,7 @@ body {
   background-size: 100% 100%;
 }
 
-.social-icons .social-icon-vk::before {
-  background-image: url(/img/VK.com-logo.png);
+.vk {
+  margin-top: 5px;
+  margin-left: 12px;
 }
